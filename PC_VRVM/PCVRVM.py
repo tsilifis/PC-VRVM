@@ -1,3 +1,12 @@
+"""
+Author: Panagiotis Tsilifis
+Date: 11.10.2019
+
+Contains classes for Chaos expansions, Exponential families (containing Beta, Bernoulli, Gauss and Gamma),
+Optimizer for the standard RVM and sparse RVM.
+
+"""
+
 __all__ = ['ChaosModel', 'ExponFam', 'VariationalOptimizer', 'SparseVariationalOptimizer']
 
 import numpy as np
