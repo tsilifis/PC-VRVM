@@ -1,3 +1,12 @@
+"""
+Author: Panagiotis Tsilifis
+Date: 11.10.2019
+
+
+Test that trains a PC expansion using VRVM for the 
+modified O'Hagan function.
+"""
+
 import numpy as np 
 import sys
 import pandas as pd
