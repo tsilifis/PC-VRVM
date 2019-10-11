@@ -1,1 +1,1 @@
-# PC-based-Sparse-RVM
+# Polynomial Chaos Variational Relevance Vector Machines
